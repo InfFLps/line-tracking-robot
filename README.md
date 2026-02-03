@@ -1,3 +1,6 @@
+> [!NOTE]
+> * Code still not completed for the ``QTR 8RC Array``
+
 ## Hardware Used
 - TB6612FNG (Motor Driver)
 - ESP32
